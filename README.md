@@ -26,7 +26,7 @@ A simple and easy-to-use Field of View (FOV) modification tool for *Dying Light 
 
 最简单的方式是直接从本项目的 "Releases" 页面下载已编译好的程序。
 
-1.  **[前往 Releases 页面](https://github.com/你的GitHub用户名/你的仓库名/releases)**
+1.  **[前往 Releases 页面](https://github.com/kamjin3086/DyingLightChangeFOV/releases)**
 2.  在最新版本中，找到并下载 `.exe` 文件（例如 `DyingLightFovChanger.exe`）。
 3.  下载后无需安装，直接可以使用。
 
