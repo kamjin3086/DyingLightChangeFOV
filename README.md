@@ -44,7 +44,7 @@ A simple and easy-to-use Field of View (FOV) modification tool for *Dying Light 
 
 如果你想自行修改或编译此工具，请按以下步骤操作：
 
-1.  安装 [AutoHotkey v2](https://www.autohotkey.com/)。
+1.  安装 [AutoHotkey v1](https://www.autohotkey.com/)。
 2.  下载或克隆本项目源码 (`.ahk` 文件)。
 3.  在 `.ahk` 文件上点击鼠标右键，选择 "Compile Script" 即可生成 `.exe` 文件。
 
