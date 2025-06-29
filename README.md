@@ -10,7 +10,7 @@ A simple and easy-to-use Field of View (FOV) modification tool for *Dying Light 
 
 ## 界面预览 (Screenshot)
 
-![程序截图](screenshot.png)
+![程序截图](screenshot1.png)
 
 ## ✨ 功能特性 (Features)
 
